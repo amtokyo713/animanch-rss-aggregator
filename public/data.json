@@ -1,30 +1,63 @@
 {
-  "generatedAt": "2026-05-05T14:54:15.720Z",
+  "generatedAt": "2026-05-05T17:42:22.125Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-05T14:54:15.720Z",
-        "lastSuccessAt": "2026-05-05T14:54:15.720Z",
+        "lastFetchedAt": "2026-05-05T17:42:22.124Z",
+        "lastSuccessAt": "2026-05-05T17:42:22.124Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "41ad586091f4b760f3e07dc544571527f83d4171"
+        "contentHash": "1d48f2ee03cb06740015a89bd615fb34bf375961"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-05T14:54:15.720Z",
-        "lastSuccessAt": "2026-05-05T14:54:15.720Z",
+        "lastFetchedAt": "2026-05-05T17:42:22.125Z",
+        "lastSuccessAt": "2026-05-05T17:42:22.125Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "70c9015f30778ca7c8d5bf89e94bbc8e4bff5c35"
+        "contentHash": "7560e1a1856d33c6a11eb0104fa455b675364195"
       }
     }
   },
   "items": [
+    {
+      "id": "ab2217fec0b710063a6714a38b3fa6e6cc81c10c",
+      "title": "[番外編10]ケモノクニ",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005221",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-05T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005221-50889d8b9c009dcb8b86e4e97792a343?1777733625",
+      "author": "土屋計"
+    },
+    {
+      "id": "a33ea45a526040892a6757dceb8946b0edc419bf",
+      "title": "[休載イラスト58]ジャンケットバンク",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005178",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-05T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005178-4c57c701396997c1b0625e0d297bbf74?1777733625",
+      "author": "田中一行"
+    },
+    {
+      "id": "b8ac86e18c57dc92d074664471975c35a65ca413",
+      "title": "[163話]マリッジトキシン",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005153",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-05T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005153-39db2616a01c54a6aa54c6c1fc9f0e9a?1777733625",
+      "author": "静脈/依田瑞稀"
+    },
     {
       "id": "6fa50a973483095dccec4cb9d6edda8d561e1f9b",
       "title": "[第160話] 俺だけ不遇スキルの異世界召喚叛逆記～最弱スキル【吸収】が全てを飲み込むまで～",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-05T03:00:00.000Z",
       "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441201-9821055113a5f321fc3e3ec2c4e6206e?1777537159",
       "author": "日之影ソラ/あずまたま"
-    },
-    {
-      "id": "beca7db4f0eb66e2c770bc39bdcd04bac72d298d",
-      "title": "[第232話]ダンダダン",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005040",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005040-6ed783a6e79717dbea1e51a1006c6892?1777600946",
-      "author": "龍幸伸"
-    },
-    {
-      "id": "20b82370eaaba3abfc5f12b160cd72f073788f1d",
-      "title": "[4244回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005096",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005096-4b4a83a5cdd9d796c4d6c417d1f70d1f?1777600946",
-      "author": "久楽"
-    },
-    {
-      "id": "7730635082237a8386328925584737f5b749dc9e",
-      "title": "[第607話]ONE PIECE",
-      "link": "https://shonenjumpplus.com/episode/13932016480028742179",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028742179-bd0d3fead6ec51a4de6370c1f7c9a869?1711562133",
-      "author": "尾田栄一郎"
     }
   ]
 }
