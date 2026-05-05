@@ -1,8 +1,8 @@
 {
   "version": 1,
   "settings": {
-    "maxItemsPerFeed": 5,
-    "displayCount": 5,
+    "maxItemsPerFeed": 3,
+    "displayCount": 6,
     "ttlHours": 168
   },
   "feeds": [
