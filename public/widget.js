@@ -50,7 +50,7 @@
 
     var header = document.createElement('div');
     header.className = 'amrss-header';
-    header.textContent = '関連サイト新着';
+    header.textContent = '外部サイト新着';
     wrap.appendChild(header);
 
     var ul = document.createElement('ul');
