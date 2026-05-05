@@ -1,0 +1,97 @@
+.amrss-wrap {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  margin: 8px 0;
+  padding: 8px 12px;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #222;
+}
+
+.amrss-wrap *,
+.amrss-wrap *::before,
+.amrss-wrap *::after {
+  box-sizing: border-box;
+}
+
+.amrss-header {
+  font-size: 12px;
+  font-weight: bold;
+  color: #666;
+  padding: 4px 0 6px 0;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 6px;
+}
+
+.amrss-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.amrss-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-left: 3px solid #888;
+  background: #fafafa;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  min-height: 28px;
+}
+
+.amrss-item:last-child {
+  margin-bottom: 0;
+}
+
+.amrss-source {
+  flex: 0 0 auto;
+  font-size: 11px;
+  color: #888;
+  background: #f0f0f0;
+  padding: 2px 6px;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.amrss-link {
+  flex: 1 1 auto;
+  color: #1a4f8a;
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+}
+
+.amrss-link:hover,
+.amrss-link:focus {
+  color: #0a3a6e;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .amrss-wrap {
+    font-size: 12px;
+    padding: 6px 8px;
+  }
+  .amrss-list {
+    max-height: 200px;
+  }
+  .amrss-item {
+    padding: 5px 6px;
+    gap: 6px;
+  }
+  .amrss-source {
+    font-size: 10px;
+    padding: 1px 4px;
+  }
+}

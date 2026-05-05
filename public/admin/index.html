@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSSフィード管理画面</title>
+  <link rel="stylesheet" href="./admin.css">
+</head>
+<body>
+
+<header class="admin-header">
+  <h1>あにまんch RSSニュースティッカー 管理画面</h1>
+  <div class="admin-meta">
+    <span id="auth-status" class="auth-status">未認証</span>
+    <button id="btn-logout" class="btn btn-secondary" hidden>ログアウト</button>
+  </div>
+</header>
+
+<main class="admin-main">
+
+  <section id="auth-section" class="card">
+    <h2>GitHub Personal Access Token</h2>
+    <p class="hint">
+      Fine-grained PAT を使用します。Resource: <code>amtokyo713/animanch-rss-aggregator</code>、
+      Permissions: <strong>Contents: Read and write</strong> / <strong>Workflows: Read and write</strong>
+      <br>
+      <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">PATを発行する →</a>
+    </p>
+    <form id="form-auth">
+      <input type="password" id="input-pat" placeholder="github_pat_..." autocomplete="off" required>
+      <button type="submit" class="btn btn-primary">保存して接続</button>
+    </form>
+    <p id="auth-error" class="error" hidden></p>
+  </section>
+
+  <section id="settings-section" class="card" hidden>
+    <h2>表示設定</h2>
+    <div class="form-row">
+      <label for="input-display-count">同時表示件数（合算）</label>
+      <input type="number" id="input-display-count" min="1" max="100" step="1">
+    </div>
+    <div class="form-row">
+      <label for="input-max-per-feed">サイト別最大件数</label>
+      <input type="number" id="input-max-per-feed" min="1" max="50" step="1">
+    </div>
+    <div class="form-row">
+      <label for="input-ttl-hours">TTL（時間、これより古いものは破棄）</label>
+      <input type="number" id="input-ttl-hours" min="1" max="720" step="1">
+    </div>
+  </section>
+
+  <section id="feeds-section" class="card" hidden>
+    <h2>フィード一覧</h2>
+    <table class="feeds-table">
+      <thead>
+        <tr>
+          <th>有効</th>
+          <th>名称</th>
+          <th>URL</th>
+          <th>色</th>
+          <th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="feeds-tbody"></tbody>
+    </table>
+    <button id="btn-add-feed" class="btn btn-secondary">+ フィードを追加</button>
+  </section>
+
+  <section id="actions-section" class="card" hidden>
+    <h2>保存と反映</h2>
+    <p class="hint">
+      「設定を保存」で feeds.json をGitHubにcommitします。<br>
+      その後「Actions手動実行」を押すと、即座に data.json が再生成されます（数分後に反映）。
+    </p>
+    <div class="actions-row">
+      <button id="btn-save" class="btn btn-primary">設定を保存（feeds.json commit）</button>
+      <button id="btn-trigger" class="btn btn-secondary">Actions手動実行（data.json再生成）</button>
+    </div>
+    <p id="save-status" class="status" hidden></p>
+  </section>
+
+  <section id="preview-section" class="card" hidden>
+    <h2>現在のdata.json（直近20件）</h2>
+    <p class="hint">
+      <a id="link-data-json" target="_blank" rel="noopener noreferrer">data.json を新しいタブで開く</a> ／
+      <a id="link-preview" target="_blank" rel="noopener noreferrer">プレビュー画面</a>
+    </p>
+    <pre id="data-preview" class="data-preview"></pre>
+  </section>
+
+</main>
+
+<template id="tpl-feed-row">
+  <tr class="feed-row">
+    <td><input type="checkbox" class="feed-enabled"></td>
+    <td><input type="text" class="feed-name" placeholder="サイト名"></td>
+    <td><input type="url" class="feed-url" placeholder="https://..."></td>
+    <td><input type="color" class="feed-color"></td>
+    <td><button type="button" class="btn btn-danger feed-delete">削除</button></td>
+  </tr>
+</template>
+
+<script src="./admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "settings": {
+    "maxItemsPerFeed": 10,
+    "displayCount": 20,
+    "ttlHours": 168
+  },
+  "feeds": [
+    {
+      "id": "jumpplus",
+      "name": "ジャンプ+",
+      "url": "https://shonenjumpplus.com/atom",
+      "enabled": true,
+      "color": "#e60012"
+    },
+    {
+      "id": "tonariyj",
+      "name": "となりのヤングジャンプ",
+      "url": "https://tonarinoyj.jp/atom",
+      "enabled": true,
+      "color": "#ffd700"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>あにまんch RSSニュースティッカー プレビュー</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+    }
+    .bbs-header {
+      background: #2c3e50;
+      color: #fff;
+      padding: 12px 20px;
+      font-size: 18px;
+      font-weight: bold;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .bbs-container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 12px 16px;
+    }
+    .bbs-thread {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin: 12px 0;
+    }
+    .bbs-thread h2 {
+      margin: 0 0 8px 0;
+      font-size: 15px;
+      color: #1a4f8a;
+    }
+    .bbs-thread p {
+      margin: 0;
+      font-size: 13px;
+      color: #555;
+    }
+    .preview-note {
+      background: #fff3cd;
+      border: 1px solid #ffeaa7;
+      color: #856404;
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 12px;
+      margin: 12px 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="bbs-header">あにまんch掲示板（プレビュー）</div>
+
+<div class="bbs-container">
+
+  <div class="preview-note">
+    ↓ ヘッダー直下にニュースティッカーが表示されます（widget.jsが <code>#animanch-rss-ticker</code> に挿入）
+  </div>
+
+  <div id="animanch-rss-ticker"></div>
+
+  <div class="preview-note">
+    ↑ ここまでがニュースティッカー領域。以下、掲示板の擬似コンテンツ。
+  </div>
+
+  <div class="bbs-thread">
+    <h2>【ダミー】掲示板スレッドその1</h2>
+    <p>これはプレビュー用のダミーコンテンツです。実際の掲示板にはここに掲示板スレッド一覧が表示されます。</p>
+  </div>
+
+  <div class="bbs-thread">
+    <h2>【ダミー】掲示板スレッドその2</h2>
+    <p>これはプレビュー用のダミーコンテンツです。</p>
+  </div>
+
+  <div class="bbs-thread">
+    <h2>【ダミー】掲示板スレッドその3</h2>
+    <p>これはプレビュー用のダミーコンテンツです。</p>
+  </div>
+
+</div>
+
+<script src="./widget.js"></script>
+</body>
+</html>

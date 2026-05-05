@@ -1,0 +1,17 @@
+{
+  "name": "animanch-rss-aggregator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "あにまんch掲示板TOP用 外部RSSニュースティッカー",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node src/build.js",
+    "preview": "npx http-server public -c-1 -p 8080"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
