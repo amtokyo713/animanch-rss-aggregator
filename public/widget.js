@@ -60,11 +60,6 @@
       li.className = 'amrss-item';
       li.style.borderLeftColor = it.color || '#888';
 
-      var src = document.createElement('span');
-      src.className = 'amrss-source';
-      src.textContent = it.source;
-      li.appendChild(src);
-
       var a = document.createElement('a');
       a.className = 'amrss-link';
       a.href = it.link;
@@ -72,6 +67,11 @@
       a.rel = 'noopener noreferrer';
       a.textContent = it.title;
       li.appendChild(a);
+
+      var src = document.createElement('span');
+      src.className = 'amrss-source';
+      src.textContent = it.source;
+      li.appendChild(src);
 
       ul.appendChild(li);
     });
