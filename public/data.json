@@ -1,5 +1,29 @@
 {
-  "generatedAt": "2026-05-05T12:06:38.936Z",
+  "generatedAt": "2026-05-05T14:53:17.889Z",
+  "meta": {
+    "feeds": {
+      "jumpplus": {
+        "lastFetchedAt": "2026-05-05T14:53:17.888Z",
+        "lastSuccessAt": "2026-05-05T14:53:17.888Z",
+        "consecutiveFailures": 0,
+        "lastError": null,
+        "itemCount": 3,
+        "etag": null,
+        "lastModified": null,
+        "contentHash": "41ad586091f4b760f3e07dc544571527f83d4171"
+      },
+      "tonariyj": {
+        "lastFetchedAt": "2026-05-05T14:53:17.889Z",
+        "lastSuccessAt": "2026-05-05T14:53:17.889Z",
+        "consecutiveFailures": 0,
+        "lastError": null,
+        "itemCount": 3,
+        "etag": null,
+        "lastModified": null,
+        "contentHash": "70c9015f30778ca7c8d5bf89e94bbc8e4bff5c35"
+      }
+    }
+  },
   "items": [
     {
       "id": "6fa50a973483095dccec4cb9d6edda8d561e1f9b",
@@ -8,7 +32,9 @@
       "source": "となりのヤングジャンプ",
       "sourceId": "tonariyj",
       "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z"
+      "publishedAt": "2026-05-05T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983644881496-05f908c42818eb81cd2062f9ef2d904c?1777544993",
+      "author": "すかいふぁーむ/高幡隆盛"
     },
     {
       "id": "080e1274dc7dfa0e4ab8e2974fa82848dcab56a9",
@@ -17,7 +43,9 @@
       "source": "となりのヤングジャンプ",
       "sourceId": "tonariyj",
       "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z"
+      "publishedAt": "2026-05-05T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983667084565-9dfbbbf759b68f37a94a0064eab26423?1777549087",
+      "author": "天宮久/由井ひな子"
     },
     {
       "id": "855957eeb6f0ac1a2f6ef019303820b07ff3aa25",
@@ -26,7 +54,9 @@
       "source": "となりのヤングジャンプ",
       "sourceId": "tonariyj",
       "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z"
+      "publishedAt": "2026-05-05T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441201-9821055113a5f321fc3e3ec2c4e6206e?1777537159",
+      "author": "日之影ソラ/あずまたま"
     },
     {
       "id": "beca7db4f0eb66e2c770bc39bdcd04bac72d298d",
@@ -35,7 +65,9 @@
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z"
+      "publishedAt": "2026-05-04T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005040-6ed783a6e79717dbea1e51a1006c6892?1777600946",
+      "author": "龍幸伸"
     },
     {
       "id": "20b82370eaaba3abfc5f12b160cd72f073788f1d",
@@ -44,7 +76,9 @@
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z"
+      "publishedAt": "2026-05-04T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005096-4b4a83a5cdd9d796c4d6c417d1f70d1f?1777600946",
+      "author": "久楽"
     },
     {
       "id": "7730635082237a8386328925584737f5b749dc9e",
@@ -53,7 +87,9 @@
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-04T15:00:00.000Z"
+      "publishedAt": "2026-05-04T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028742179-bd0d3fead6ec51a4de6370c1f7c9a869?1711562133",
+      "author": "尾田栄一郎"
     }
   ]
 }

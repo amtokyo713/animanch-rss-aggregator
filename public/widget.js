@@ -45,16 +45,22 @@
 
   function render(root, data) {
     if (!data || !Array.isArray(data.items) || data.items.length === 0) return;
-    var wrap = document.createElement('div');
-    wrap.className = 'amrss-wrap';
+
+    var section = document.createElement('section');
+    section.className = 'amrss-wrap';
+    section.setAttribute('role', 'region');
+    section.setAttribute('aria-label', '外部サイト新着');
+    section.setAttribute('lang', 'ja');
 
     var header = document.createElement('div');
     header.className = 'amrss-header';
     header.textContent = '外部サイト新着';
-    wrap.appendChild(header);
+    section.appendChild(header);
 
     var ul = document.createElement('ul');
     ul.className = 'amrss-list';
+    ul.setAttribute('aria-label', '新着記事一覧');
+
     data.items.forEach(function (it) {
       var li = document.createElement('li');
       li.className = 'amrss-item';
@@ -65,7 +71,25 @@
       a.href = it.link;
       a.target = '_blank';
       a.rel = 'noopener noreferrer';
-      a.textContent = it.title;
+      a.setAttribute('aria-label', it.source + 'の記事「' + it.title + '」を新しいタブで開く');
+
+      if (it.thumbnail) {
+        var img = document.createElement('img');
+        img.className = 'amrss-thumb';
+        img.src = it.thumbnail;
+        img.alt = '';
+        img.setAttribute('loading', 'lazy');
+        img.setAttribute('decoding', 'async');
+        img.setAttribute('aria-hidden', 'true');
+        img.onerror = function () { img.style.display = 'none'; };
+        a.appendChild(img);
+      }
+
+      var titleSpan = document.createElement('span');
+      titleSpan.className = 'amrss-title';
+      titleSpan.textContent = it.title;
+      a.appendChild(titleSpan);
+
       li.appendChild(a);
 
       var src = document.createElement('span');
@@ -75,10 +99,10 @@
 
       ul.appendChild(li);
     });
-    wrap.appendChild(ul);
+    section.appendChild(ul);
 
     root.innerHTML = '';
-    root.appendChild(wrap);
+    root.appendChild(section);
   }
 
   function init() {

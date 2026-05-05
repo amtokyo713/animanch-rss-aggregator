@@ -29,15 +29,18 @@ async function main() {
   const displayCount = settings.displayCount ?? 20;
   const ttlHours = settings.ttlHours ?? 168;
 
-  const previous = await readJsonOrDefault(DATA_PATH, { items: [] });
+  const previous = await readJsonOrDefault(DATA_PATH, { items: [], meta: { feeds: {} } });
   const previousByFeedId = {};
   for (const it of previous.items || []) {
     if (!previousByFeedId[it.sourceId]) previousByFeedId[it.sourceId] = [];
     previousByFeedId[it.sourceId].push(it);
   }
+  const prevMetaByFeedId = (previous.meta && previous.meta.feeds) || {};
 
   console.log(`Fetching ${feedsConfig.feeds.length} feed(s)...`);
-  const { successByFeedId, failedFeedIds } = await fetchAllFeeds(feedsConfig.feeds, maxItemsPerFeed);
+  const { successByFeedId, newMetaByFeedId, failedFeedIds, unchangedFeedIds } = await fetchAllFeeds(
+    feedsConfig.feeds, prevMetaByFeedId, maxItemsPerFeed
+  );
 
   const merged = [];
   for (const feed of feedsConfig.feeds) {
@@ -46,7 +49,10 @@ async function main() {
       merged.push(...successByFeedId[feed.id]);
     } else if (previousByFeedId[feed.id]) {
       merged.push(...previousByFeedId[feed.id]);
-      console.log(`[KEEP] ${feed.name}: kept ${previousByFeedId[feed.id].length} items from previous data.json`);
+      let reason = 'KEEP';
+      if (failedFeedIds.includes(feed.id)) reason = 'KEEP-FAIL';
+      else if (unchangedFeedIds.includes(feed.id)) reason = 'KEEP-UNCHANGED';
+      console.log(`[${reason}] ${feed.name}: kept ${previousByFeedId[feed.id].length} items from previous data.json`);
     }
   }
 
@@ -59,8 +65,16 @@ async function main() {
 
   const sorted = sortByDateDesc(dedupeById(fresh)).slice(0, displayCount);
 
+  const finalMeta = { feeds: {} };
+  for (const feed of feedsConfig.feeds) {
+    if (newMetaByFeedId[feed.id]) {
+      finalMeta.feeds[feed.id] = newMetaByFeedId[feed.id];
+    }
+  }
+
   const output = {
     generatedAt: new Date().toISOString(),
+    meta: finalMeta,
     items: sorted
   };
 
@@ -69,6 +83,7 @@ async function main() {
 
   const allFailedAndNoPrev = failedFeedIds.length > 0
     && Object.keys(successByFeedId).length === 0
+    && unchangedFeedIds.length === 0
     && (previous.items || []).length === 0;
   if (allFailedAndNoPrev) {
     console.error('All feeds failed and no previous data — exiting with error');
