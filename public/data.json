@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T08:19:23.726Z",
+  "generatedAt": "2026-05-05T10:45:34.222Z",
   "items": [
     {
       "id": "6fa50a973483095dccec4cb9d6edda8d561e1f9b",
@@ -29,22 +29,31 @@
       "publishedAt": "2026-05-05T03:00:00.000Z"
     },
     {
-      "id": "fcdbf8a9da6a98705f321299d670fcfecb509006",
-      "title": "[第13-1話] 二周目賢者の英雄譚 ～生まれ変わった最強、前世で鍛えた魔法で学園無双する～",
-      "link": "https://tonarinoyj.jp/episode/12207421983670754159",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z"
+      "id": "beca7db4f0eb66e2c770bc39bdcd04bac72d298d",
+      "title": "[第232話]ダンダダン",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005040",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-04T15:00:00.000Z"
     },
     {
-      "id": "3e69f75dc7ef1f7e294b3d86f721b2f7e0a3f632",
-      "title": "[第15話] 剣と魔法とNTR",
-      "link": "https://tonarinoyj.jp/episode/12207421983667084557",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z"
+      "id": "20b82370eaaba3abfc5f12b160cd72f073788f1d",
+      "title": "[4244回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005096",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-04T15:00:00.000Z"
+    },
+    {
+      "id": "7730635082237a8386328925584737f5b749dc9e",
+      "title": "[第607話]ONE PIECE",
+      "link": "https://shonenjumpplus.com/episode/13932016480028742179",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-04T15:00:00.000Z"
     }
   ]
 }
