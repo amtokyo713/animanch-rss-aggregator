@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-05T23:54:21.878Z",
+  "generatedAt": "2026-05-06T03:40:26.743Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-05T23:54:21.877Z",
-        "lastSuccessAt": "2026-05-05T23:54:21.877Z",
+        "lastFetchedAt": "2026-05-06T03:40:26.743Z",
+        "lastSuccessAt": "2026-05-06T03:40:26.743Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,18 +13,51 @@
         "contentHash": "1d48f2ee03cb06740015a89bd615fb34bf375961"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-05T23:54:21.877Z",
-        "lastSuccessAt": "2026-05-05T23:54:21.877Z",
+        "lastFetchedAt": "2026-05-06T03:40:26.743Z",
+        "lastSuccessAt": "2026-05-06T03:40:26.743Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "7560e1a1856d33c6a11eb0104fa455b675364195"
+        "contentHash": "5deef1823382cf50018d7bca25429d9c70dc49ab"
       }
     }
   },
   "items": [
+    {
+      "id": "7f6fad9f3a2b4b930e3f9f1386463efc93a942f7",
+      "title": "[第24-1話] ホストと魔王",
+      "link": "https://tonarinoyj.jp/episode/12207421983670754155",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-06T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754155-cdb2b8d3822aa712a5fad87d254713de?1777606854",
+      "author": "ホン・トク"
+    },
+    {
+      "id": "29cedbc27e43e79e60a47e9bd2508c94660debfa",
+      "title": "[第12話 後編] となりの百怪見聞録",
+      "link": "https://tonarinoyj.jp/episode/12207421983656409411",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-06T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983656409411-def89854cb99b70ca6090ba756a93f98?1777603399",
+      "author": "綿貫芳子"
+    },
+    {
+      "id": "02aa1f67bc0827b2b506ca15026a0b471737d2d9",
+      "title": "[ポン太たちの日々㉝] ポン太がヒトになりまして。",
+      "link": "https://tonarinoyj.jp/episode/12207421983659650617",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-06T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983659650617-15d3965a2086d389b9ca3c2d70cf9c6e?1777552068",
+      "author": "濱田賢治"
+    },
     {
       "id": "ab2217fec0b710063a6714a38b3fa6e6cc81c10c",
       "title": "[番外編10]ケモノクニ",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-05T15:00:00.000Z",
       "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005153-39db2616a01c54a6aa54c6c1fc9f0e9a?1777733625",
       "author": "静脈/依田瑞稀"
-    },
-    {
-      "id": "6fa50a973483095dccec4cb9d6edda8d561e1f9b",
-      "title": "[第160話] 俺だけ不遇スキルの異世界召喚叛逆記～最弱スキル【吸収】が全てを飲み込むまで～",
-      "link": "https://tonarinoyj.jp/episode/12207421983644881496",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983644881496-05f908c42818eb81cd2062f9ef2d904c?1777544993",
-      "author": "すかいふぁーむ/高幡隆盛"
-    },
-    {
-      "id": "080e1274dc7dfa0e4ab8e2974fa82848dcab56a9",
-      "title": "[第39話] ふるさと頂きます",
-      "link": "https://tonarinoyj.jp/episode/12207421983667084565",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983667084565-9dfbbbf759b68f37a94a0064eab26423?1777549087",
-      "author": "天宮久/由井ひな子"
-    },
-    {
-      "id": "855957eeb6f0ac1a2f6ef019303820b07ff3aa25",
-      "title": "[第30話] 左遷された第三王女は『辺境改革』を始めます!!",
-      "link": "https://tonarinoyj.jp/episode/12207421983607441201",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-05T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441201-9821055113a5f321fc3e3ec2c4e6206e?1777537159",
-      "author": "日之影ソラ/あずまたま"
     }
   ]
 }
