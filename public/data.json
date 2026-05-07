@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-05-07T14:28:31.400Z",
+  "generatedAt": "2026-05-07T16:56:08.450Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-07T14:28:31.400Z",
-        "lastSuccessAt": "2026-05-07T14:28:31.400Z",
+        "lastFetchedAt": "2026-05-07T16:56:08.450Z",
+        "lastSuccessAt": "2026-05-07T16:56:08.450Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "4a75045024f54134c32653b18385d7541e22589e"
+        "contentHash": "c383a44bc0869f9c2f3a963acc528d0f600cd46c"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-07T14:28:31.400Z",
-        "lastSuccessAt": "2026-05-07T14:28:31.400Z",
+        "lastFetchedAt": "2026-05-07T16:56:08.450Z",
+        "lastSuccessAt": "2026-05-07T16:56:08.450Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "81d4b230c1e5d619e7a8fcb3a36b1169234d02a0"
+        "contentHash": "1eb85f8050ab260692110f54990f8fe38b7ab4f4"
       }
     }
   },
   "items": [
     {
-      "id": "d4157c511a39840bb40505762e7ecf7529fe3c7f",
-      "title": "[番外編16]幼稚園WARS",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005260",
+      "id": "669c4ea6666125ca82ac67e32c96e3302fab3388",
+      "title": "[69話 前編]ONE PIECE学園",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005365",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-06T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005260-8a19a0194c824c2b7c1f523bb2621d7b?1777733625",
-      "author": "千葉侑生"
+      "publishedAt": "2026-05-07T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005365-5555dbba6fbcc13bf7f837a30a949f9a?1778124831",
+      "author": "小路壮平/『ONE PIECE』（原作：尾田栄一郎）より"
     },
     {
-      "id": "e7c04c9b4d909474e2d1d153a2aa0c3b1ef750e9",
-      "title": "[4246回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005302",
+      "id": "b3fd107a0011205bf46ee1761302c4d83150c806",
+      "title": "[番外編26]ゴーストフィクサーズ",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005339",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-06T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005302-5357e089891e9450c1954d15bd8df49f?1777733625",
+      "publishedAt": "2026-05-07T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005339-0b581c91d186c816bcb8fe74a90ddb3e?1778124831",
+      "author": "田中靖規"
+    },
+    {
+      "id": "7e9e17485b78420b61d7c6c69beb2d9ea1c0ed54",
+      "title": "[4247回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005399",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-07T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005399-cb0597e4833eeb082f3bb0e909800fe4?1778124831",
       "author": "久楽"
-    },
-    {
-      "id": "c733a5a69e3b320afd30b7dd486c2d26fc49bdf8",
-      "title": "[第318話]ピューと吹く！ジャガー",
-      "link": "https://shonenjumpplus.com/episode/13932016480028739787",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-06T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028739787-b0f70dbff749751a47863d5bad2e9cd1?1711562857",
-      "author": "うすた京介"
     },
     {
       "id": "cb0934608f74eef702b5c978cbb321667ac6f417",
