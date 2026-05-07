@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-06T23:55:27.887Z",
+  "generatedAt": "2026-05-07T03:39:41.886Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-06T23:55:27.887Z",
-        "lastSuccessAt": "2026-05-06T23:55:27.887Z",
+        "lastFetchedAt": "2026-05-07T03:39:41.885Z",
+        "lastSuccessAt": "2026-05-07T03:39:41.885Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,8 +13,8 @@
         "contentHash": "4a75045024f54134c32653b18385d7541e22589e"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-06T23:55:27.887Z",
-        "lastSuccessAt": "2026-05-06T23:55:27.887Z",
+        "lastFetchedAt": "2026-05-07T03:39:41.886Z",
+        "lastSuccessAt": "2026-05-07T03:39:41.886Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
