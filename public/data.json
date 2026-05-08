@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-07T23:57:58.479Z",
+  "generatedAt": "2026-05-08T03:33:52.156Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-07T23:57:58.478Z",
-        "lastSuccessAt": "2026-05-07T23:57:58.478Z",
+        "lastFetchedAt": "2026-05-08T03:33:52.156Z",
+        "lastSuccessAt": "2026-05-08T03:33:52.156Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,18 +13,51 @@
         "contentHash": "c383a44bc0869f9c2f3a963acc528d0f600cd46c"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-07T23:57:58.478Z",
-        "lastSuccessAt": "2026-05-07T23:57:58.478Z",
+        "lastFetchedAt": "2026-05-08T03:33:52.156Z",
+        "lastSuccessAt": "2026-05-08T03:33:52.156Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "1eb85f8050ab260692110f54990f8fe38b7ab4f4"
+        "contentHash": "620431c69d62f2c851c0a650b50fa97c428959a3"
       }
     }
   },
   "items": [
+    {
+      "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
+      "title": "[理想郷裏女子図鑑①] 理想郷女子図鑑～私の結婚生活、とっても幸せです～",
+      "link": "https://tonarinoyj.jp/episode/12207421983656409419",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-08T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983656409419-cdfb45765142cfa7d44e7763f5b9f022?1777379240",
+      "author": "江坂純/山田シロ彦"
+    },
+    {
+      "id": "8b099cdb5897caeeff83fd4f12937908ec9d99b0",
+      "title": "[休載イラスト] 高みの鷹見さん",
+      "link": "https://tonarinoyj.jp/episode/12207421983670754167",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-08T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754167-81d4710281bb496b224e88152252dc3f?1778123938",
+      "author": "谷垣岳"
+    },
+    {
+      "id": "8a7a7b476d3f05df23bbf08a5679ba44c6912c1f",
+      "title": "[第9話②] みんな〇んじゃえ",
+      "link": "https://tonarinoyj.jp/episode/12207421983607441208",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-08T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441208-32a8b934115e9b6d7d2ea3f3f60c55e3?1776241444",
+      "author": "宮月新/藤村緋二"
+    },
     {
       "id": "669c4ea6666125ca82ac67e32c96e3302fab3388",
       "title": "[69話 前編]ONE PIECE学園",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-07T15:00:00.000Z",
       "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005399-cb0597e4833eeb082f3bb0e909800fe4?1778124831",
       "author": "久楽"
-    },
-    {
-      "id": "cb0934608f74eef702b5c978cbb321667ac6f417",
-      "title": "[第275話] ワンパンマン",
-      "link": "https://tonarinoyj.jp/episode/12207421983661137049",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-06T15:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983661137049-628d8b00c309fb827d15af4260262422?1777379469",
-      "author": "ＯＮＥ/村田雄介"
-    },
-    {
-      "id": "7f6fad9f3a2b4b930e3f9f1386463efc93a942f7",
-      "title": "[第24-1話] ホストと魔王",
-      "link": "https://tonarinoyj.jp/episode/12207421983670754155",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-06T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754155-cdb2b8d3822aa712a5fad87d254713de?1777606854",
-      "author": "ホン・トク"
-    },
-    {
-      "id": "29cedbc27e43e79e60a47e9bd2508c94660debfa",
-      "title": "[第12話 後編] となりの百怪見聞録",
-      "link": "https://tonarinoyj.jp/episode/12207421983656409411",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-06T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983656409411-def89854cb99b70ca6090ba756a93f98?1777603399",
-      "author": "綿貫芳子"
     }
   ]
 }
