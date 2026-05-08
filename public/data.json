@@ -1,30 +1,63 @@
 {
-  "generatedAt": "2026-05-08T14:02:20.853Z",
+  "generatedAt": "2026-05-08T15:44:25.996Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-08T14:02:20.852Z",
-        "lastSuccessAt": "2026-05-08T14:02:20.852Z",
+        "lastFetchedAt": "2026-05-08T15:44:25.996Z",
+        "lastSuccessAt": "2026-05-08T15:44:25.996Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "c383a44bc0869f9c2f3a963acc528d0f600cd46c"
+        "contentHash": "4a8c03584fa152daef6d95b4b0e94fdb6b6021c6"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-08T14:02:20.852Z",
-        "lastSuccessAt": "2026-05-08T14:02:20.852Z",
+        "lastFetchedAt": "2026-05-08T15:44:25.996Z",
+        "lastSuccessAt": "2026-05-08T15:44:25.996Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "620431c69d62f2c851c0a650b50fa97c428959a3"
+        "contentHash": "8afb670f2b04eda465e6e70afe4ae14cb80f8ca9"
       }
     }
   },
   "items": [
+    {
+      "id": "ac2f949a72ccdcc5a399412a672badce5c4c382f",
+      "title": "[4248回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005482",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-08T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005482-115d915b57c67f1948dc06ab1d854a46?1778124831",
+      "author": "久楽"
+    },
+    {
+      "id": "07915a75328b5407a59a0bf5f5dbfeef6fe7dc0f",
+      "title": "[第41.5話]このクラスにギャルはいない",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005451",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-08T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005451-abb4e4cec056150c23437e25a21b46c2?1778124831",
+      "author": "時田時雨"
+    },
+    {
+      "id": "5d3d6d0d7e4e3584ab17cf885dbc2ae8469cb36e",
+      "title": "[第50話]大人大戦",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005440",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-08T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005440-f7c85fab184bff2e9b693eb395867900?1778124831",
+      "author": "かっぴー/都築真佐秋"
+    },
     {
       "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
       "title": "[理想郷裏女子図鑑①] 理想郷女子図鑑～私の結婚生活、とっても幸せです～",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-08T03:00:00.000Z",
       "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441208-32a8b934115e9b6d7d2ea3f3f60c55e3?1776241444",
       "author": "宮月新/藤村緋二"
-    },
-    {
-      "id": "669c4ea6666125ca82ac67e32c96e3302fab3388",
-      "title": "[69話 前編]ONE PIECE学園",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005365",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-07T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005365-5555dbba6fbcc13bf7f837a30a949f9a?1778124831",
-      "author": "小路壮平/『ONE PIECE』（原作：尾田栄一郎）より"
-    },
-    {
-      "id": "b3fd107a0011205bf46ee1761302c4d83150c806",
-      "title": "[番外編26]ゴーストフィクサーズ",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005339",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-07T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005339-0b581c91d186c816bcb8fe74a90ddb3e?1778124831",
-      "author": "田中靖規"
-    },
-    {
-      "id": "7e9e17485b78420b61d7c6c69beb2d9ea1c0ed54",
-      "title": "[4247回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005399",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-07T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005399-cb0597e4833eeb082f3bb0e909800fe4?1778124831",
-      "author": "久楽"
     }
   ]
 }
