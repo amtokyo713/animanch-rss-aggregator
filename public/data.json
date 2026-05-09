@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-09T14:57:28.252Z",
+  "generatedAt": "2026-05-09T15:57:52.732Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-09T14:57:28.251Z",
-        "lastSuccessAt": "2026-05-09T14:57:28.251Z",
+        "lastFetchedAt": "2026-05-09T15:57:52.732Z",
+        "lastSuccessAt": "2026-05-09T15:57:52.732Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "4a8c03584fa152daef6d95b4b0e94fdb6b6021c6"
+        "contentHash": "38e60077712642cbd645970f3417585020e1b17e"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-09T14:57:28.252Z",
-        "lastSuccessAt": "2026-05-09T14:57:28.252Z",
+        "lastFetchedAt": "2026-05-09T15:57:52.732Z",
+        "lastSuccessAt": "2026-05-09T15:57:52.732Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -26,37 +26,37 @@
   },
   "items": [
     {
-      "id": "ac2f949a72ccdcc5a399412a672badce5c4c382f",
-      "title": "[4248回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005482",
+      "id": "7ba00289df032d0dab173a6d78fb22fc6927585a",
+      "title": "[4249回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005605",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-08T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005482-115d915b57c67f1948dc06ab1d854a46?1778124831",
+      "publishedAt": "2026-05-09T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005605-f26cafeacad52a06785839969dd6d673?1778124831",
       "author": "久楽"
     },
     {
-      "id": "07915a75328b5407a59a0bf5f5dbfeef6fe7dc0f",
-      "title": "[第41.5話]このクラスにギャルはいない",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005451",
+      "id": "df3558277a1234ce056e57ed08d6756aadd4b8f9",
+      "title": "[イラスト32]クソ女に幸あれ",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005539",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-08T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005451-abb4e4cec056150c23437e25a21b46c2?1778124831",
-      "author": "時田時雨"
+      "publishedAt": "2026-05-09T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005539-88a3db3fe23c6175359e2fef5497391f?1778124831",
+      "author": "岸川瑞樹"
     },
     {
-      "id": "5d3d6d0d7e4e3584ab17cf885dbc2ae8469cb36e",
-      "title": "[第50話]大人大戦",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005440",
+      "id": "13aa2229e67d20493b03e36496c392e5e9b1852d",
+      "title": "[第１０８話]ふつうの軽音部",
+      "link": "https://shonenjumpplus.com/episode/17107419589696005517",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-08T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005440-f7c85fab184bff2e9b693eb395867900?1778124831",
-      "author": "かっぴー/都築真佐秋"
+      "publishedAt": "2026-05-09T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005517-cf27649461fc57d2c5623449a13f138e?1778124831",
+      "author": "クワハリ/出内テツオ"
     },
     {
       "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
