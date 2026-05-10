@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-10T14:58:19.972Z",
+  "generatedAt": "2026-05-10T15:58:29.508Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-10T14:58:19.972Z",
-        "lastSuccessAt": "2026-05-10T14:58:19.972Z",
+        "lastFetchedAt": "2026-05-10T15:58:29.508Z",
+        "lastSuccessAt": "2026-05-10T15:58:29.508Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "38e60077712642cbd645970f3417585020e1b17e"
+        "contentHash": "a3d1c1154b9da12bcad538b00ebc3953842a7dbf"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-10T14:58:19.972Z",
-        "lastSuccessAt": "2026-05-10T14:58:19.972Z",
+        "lastFetchedAt": "2026-05-10T15:58:29.508Z",
+        "lastSuccessAt": "2026-05-10T15:58:29.508Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -26,37 +26,37 @@
   },
   "items": [
     {
-      "id": "7ba00289df032d0dab173a6d78fb22fc6927585a",
-      "title": "[4249回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005605",
+      "id": "b07d03755e1f561ac8aebe1580a7b733ef8c2308",
+      "title": "[第190話]ラーメン赤猫",
+      "link": "https://shonenjumpplus.com/episode/9253189534697937943",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-09T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005605-f26cafeacad52a06785839969dd6d673?1778124831",
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697937943-36f8e5556d6cb18ff551fb72d25bb388?1778217582",
+      "author": "アンギャマン"
+    },
+    {
+      "id": "2c77e93d6a198d9c8d801dfeba809defec45fc14",
+      "title": "[4250回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938002",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938002-6aa916a26f45b21cbe76023d9b407178?1778217582",
       "author": "久楽"
     },
     {
-      "id": "df3558277a1234ce056e57ed08d6756aadd4b8f9",
-      "title": "[イラスト32]クソ女に幸あれ",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005539",
+      "id": "fd50e114ad0fc3b711af567eac17d2fbe1250d82",
+      "title": "[134話]SPY×FAMILY",
+      "link": "https://shonenjumpplus.com/episode/9253189534697937908",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-09T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005539-88a3db3fe23c6175359e2fef5497391f?1778124831",
-      "author": "岸川瑞樹"
-    },
-    {
-      "id": "13aa2229e67d20493b03e36496c392e5e9b1852d",
-      "title": "[第１０８話]ふつうの軽音部",
-      "link": "https://shonenjumpplus.com/episode/17107419589696005517",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-09T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589696005517-cf27649461fc57d2c5623449a13f138e?1778124831",
-      "author": "クワハリ/出内テツオ"
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697937908-a744a827cde26a007497826ce974c1bd?1778217582",
+      "author": "遠藤達哉"
     },
     {
       "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
