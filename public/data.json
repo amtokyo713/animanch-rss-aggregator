@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-05-11T11:30:12.921Z",
+  "generatedAt": "2026-05-11T15:23:30.890Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-11T11:30:12.920Z",
-        "lastSuccessAt": "2026-05-11T11:30:12.920Z",
+        "lastFetchedAt": "2026-05-11T15:23:30.889Z",
+        "lastSuccessAt": "2026-05-11T15:23:30.889Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "a3d1c1154b9da12bcad538b00ebc3953842a7dbf"
+        "contentHash": "344f1f4969d4c5d1fc01395fa0688c6fe76b81c4"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-11T11:30:12.920Z",
-        "lastSuccessAt": "2026-05-11T11:30:12.920Z",
+        "lastFetchedAt": "2026-05-11T15:23:30.890Z",
+        "lastSuccessAt": "2026-05-11T15:23:30.890Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "8afb670f2b04eda465e6e70afe4ae14cb80f8ca9"
+        "contentHash": "12e693785d254d48591afa927765b262ca41bdf4"
       }
     }
   },
   "items": [
     {
-      "id": "b07d03755e1f561ac8aebe1580a7b733ef8c2308",
-      "title": "[第190話]ラーメン赤猫",
-      "link": "https://shonenjumpplus.com/episode/9253189534697937943",
+      "id": "9251a343744c18365dc13c74f6f2cd8facb5d428",
+      "title": "[第233話]ダンダダン",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938042",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-10T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697937943-36f8e5556d6cb18ff551fb72d25bb388?1778217582",
-      "author": "アンギャマン"
+      "publishedAt": "2026-05-11T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938042-2afe668454ebe63ceecac830e28b2ac9?1778218192",
+      "author": "龍幸伸"
     },
     {
-      "id": "2c77e93d6a198d9c8d801dfeba809defec45fc14",
-      "title": "[4250回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938002",
+      "id": "f1a98ebb2338f953a75c885bc4f1e70e5f093262",
+      "title": "[4251回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938189",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-10T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938002-6aa916a26f45b21cbe76023d9b407178?1778217582",
+      "publishedAt": "2026-05-11T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938189-b1af7e48d07c84e073176dd467ca38e9?1778218192",
       "author": "久楽"
     },
     {
-      "id": "fd50e114ad0fc3b711af567eac17d2fbe1250d82",
-      "title": "[134話]SPY×FAMILY",
-      "link": "https://shonenjumpplus.com/episode/9253189534697937908",
+      "id": "eace7757b212567d7dc67e024f61a0026d71b187",
+      "title": "[第608話]ONE PIECE",
+      "link": "https://shonenjumpplus.com/episode/13932016480028742183",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-10T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697937908-a744a827cde26a007497826ce974c1bd?1778217582",
-      "author": "遠藤達哉"
+      "publishedAt": "2026-05-11T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028742183-f96b2b35c8d33ea6ed70b7aa86034bc9?1711562133",
+      "author": "尾田栄一郎"
     },
     {
       "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
