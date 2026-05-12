@@ -1,30 +1,63 @@
 {
-  "generatedAt": "2026-05-12T14:37:34.514Z",
+  "generatedAt": "2026-05-12T17:17:32.040Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-12T14:37:34.513Z",
-        "lastSuccessAt": "2026-05-12T14:37:34.513Z",
+        "lastFetchedAt": "2026-05-12T17:17:32.040Z",
+        "lastSuccessAt": "2026-05-12T17:17:32.040Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "2811e94e7a4f4f09cf6959b192ee03b48ba38581"
+        "contentHash": "c02d78286d0479d958fae9ac803f093e5d8224cc"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-12T14:37:34.513Z",
-        "lastSuccessAt": "2026-05-12T14:37:34.513Z",
+        "lastFetchedAt": "2026-05-12T17:17:32.040Z",
+        "lastSuccessAt": "2026-05-12T17:17:32.040Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "ce60f86646e4190f1c31cb0fbf4381182d0fdd22"
+        "contentHash": "ac743454ecbddccf22c6d287a9af14278bc7031d"
       }
     }
   },
   "items": [
+    {
+      "id": "2d22ee90a8a0a47b9ec1f8868d5993339c2dc327",
+      "title": "[116話]エクソシストを堕とせない",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938224",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-12T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938224-6053e308292584fafd90eb28d303de05?1778482586",
+      "author": "有馬あるま/フカヤマますく"
+    },
+    {
+      "id": "2722f6cff127c9ee63f64efb46cf1ec1f8aaed30",
+      "title": "[休載イラスト59]ジャンケットバンク",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938262",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-12T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938262-de3b494c1b22c36114e5b7aedde66da7?1778556812",
+      "author": "田中一行"
+    },
+    {
+      "id": "de109df77ba0bdb80351a0846ea98d1630fc60b2",
+      "title": "[164話]マリッジトキシン",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938206",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-12T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938206-3f14ceb102773cd0c985b9e23e3cb947?1778569337",
+      "author": "静脈/依田瑞稀"
+    },
     {
       "id": "d60824e67e6488aa19ec0384957c37e61e2a39e8",
       "title": "[第161話] 俺だけ不遇スキルの異世界召喚叛逆記～最弱スキル【吸収】が全てを飲み込むまで～",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-12T03:00:00.000Z",
       "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983637878438-dfd5460f54522ed4fe0121789be219bb?1778235171",
       "author": "清水ゆりか（HJノベルス）/日野彰/すざく"
-    },
-    {
-      "id": "9251a343744c18365dc13c74f6f2cd8facb5d428",
-      "title": "[第233話]ダンダダン",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938042",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-11T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938042-2afe668454ebe63ceecac830e28b2ac9?1778218192",
-      "author": "龍幸伸"
-    },
-    {
-      "id": "f1a98ebb2338f953a75c885bc4f1e70e5f093262",
-      "title": "[4251回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938189",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-11T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938189-b1af7e48d07c84e073176dd467ca38e9?1778218192",
-      "author": "久楽"
-    },
-    {
-      "id": "eace7757b212567d7dc67e024f61a0026d71b187",
-      "title": "[第608話]ONE PIECE",
-      "link": "https://shonenjumpplus.com/episode/13932016480028742183",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-11T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028742183-f96b2b35c8d33ea6ed70b7aa86034bc9?1711562133",
-      "author": "尾田栄一郎"
     }
   ]
 }
