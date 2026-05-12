@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-12T00:03:02.895Z",
+  "generatedAt": "2026-05-12T04:00:05.360Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-12T00:03:02.894Z",
-        "lastSuccessAt": "2026-05-12T00:03:02.894Z",
+        "lastFetchedAt": "2026-05-12T04:00:05.359Z",
+        "lastSuccessAt": "2026-05-12T04:00:05.359Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,18 +13,51 @@
         "contentHash": "344f1f4969d4c5d1fc01395fa0688c6fe76b81c4"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-12T00:03:02.894Z",
-        "lastSuccessAt": "2026-05-12T00:03:02.894Z",
+        "lastFetchedAt": "2026-05-12T04:00:05.359Z",
+        "lastSuccessAt": "2026-05-12T04:00:05.359Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "12e693785d254d48591afa927765b262ca41bdf4"
+        "contentHash": "ce60f86646e4190f1c31cb0fbf4381182d0fdd22"
       }
     }
   },
   "items": [
+    {
+      "id": "d60824e67e6488aa19ec0384957c37e61e2a39e8",
+      "title": "[第161話] 俺だけ不遇スキルの異世界召喚叛逆記～最弱スキル【吸収】が全てを飲み込むまで～",
+      "link": "https://tonarinoyj.jp/episode/12207421983699649270",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-12T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983699649270-42230e4b1ba4a6402f716855190614fe?1778232943",
+      "author": "すかいふぁーむ/高幡隆盛"
+    },
+    {
+      "id": "535e614faadb3bdeda3140736c2bd05baa356e5f",
+      "title": "[第76話] 救世主《メシア》～異世界を救った元勇者が魔物のあふれる現実世界を無双する～",
+      "link": "https://tonarinoyj.jp/episode/12207421983711587151",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-12T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983711587151-7c7a98f80d9f0f80a15f2c4b8aa34009?1778489123",
+      "author": "平成オワリ/原田絵理"
+    },
+    {
+      "id": "4045ff25f652b3890bbff5051bc1c0923456f308",
+      "title": "[第21話 後編] 転生アラサー女子の異世改活 政略結婚は嫌なので、雑学知識で楽しい改革ライフを決行しちゃいます！",
+      "link": "https://tonarinoyj.jp/episode/12207421983637878438",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-12T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983637878438-dfd5460f54522ed4fe0121789be219bb?1778235171",
+      "author": "清水ゆりか（HJノベルス）/日野彰/すざく"
+    },
     {
       "id": "9251a343744c18365dc13c74f6f2cd8facb5d428",
       "title": "[第233話]ダンダダン",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-11T15:00:00.000Z",
       "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028742183-f96b2b35c8d33ea6ed70b7aa86034bc9?1711562133",
       "author": "尾田栄一郎"
-    },
-    {
-      "id": "93fbfd666f0d6051623e058a4335ccd54bab6255",
-      "title": "[理想郷裏女子図鑑①] 理想郷女子図鑑～私の結婚生活、とっても幸せです～",
-      "link": "https://tonarinoyj.jp/episode/12207421983656409419",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-08T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983656409419-cdfb45765142cfa7d44e7763f5b9f022?1777379240",
-      "author": "江坂純/山田シロ彦"
-    },
-    {
-      "id": "8b099cdb5897caeeff83fd4f12937908ec9d99b0",
-      "title": "[休載イラスト] 高みの鷹見さん",
-      "link": "https://tonarinoyj.jp/episode/12207421983670754167",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-08T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754167-81d4710281bb496b224e88152252dc3f?1778123938",
-      "author": "谷垣岳"
-    },
-    {
-      "id": "8a7a7b476d3f05df23bbf08a5679ba44c6912c1f",
-      "title": "[第9話②] みんな〇んじゃえ",
-      "link": "https://tonarinoyj.jp/episode/12207421983607441208",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-08T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983607441208-32a8b934115e9b6d7d2ea3f3f60c55e3?1776241444",
-      "author": "宮月新/藤村緋二"
     }
   ]
 }
