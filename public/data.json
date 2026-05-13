@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-12T23:06:38.122Z",
+  "generatedAt": "2026-05-13T03:53:09.415Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-12T23:06:38.122Z",
-        "lastSuccessAt": "2026-05-12T23:06:38.122Z",
+        "lastFetchedAt": "2026-05-13T03:53:09.415Z",
+        "lastSuccessAt": "2026-05-13T03:53:09.415Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,18 +13,51 @@
         "contentHash": "c02d78286d0479d958fae9ac803f093e5d8224cc"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-12T23:06:38.122Z",
-        "lastSuccessAt": "2026-05-12T23:06:38.122Z",
+        "lastFetchedAt": "2026-05-13T03:53:09.415Z",
+        "lastSuccessAt": "2026-05-13T03:53:09.415Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "ac743454ecbddccf22c6d287a9af14278bc7031d"
+        "contentHash": "162935690ec744cf4dc8914454621024e4297f5c"
       }
     }
   },
   "items": [
+    {
+      "id": "f8bc5c923b9bf2323b837bc54a2c21709d98094c",
+      "title": "[ポン太たちの日々㉞] ポン太がヒトになりまして。",
+      "link": "https://tonarinoyj.jp/episode/12207421983714390188",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-13T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983714390188-ad33ba40b2fdad0fa32893ac6ab2e5b5?1778565200",
+      "author": "濱田賢治"
+    },
+    {
+      "id": "54bc1a47288b055155831bf494d11530ff51a325",
+      "title": "[第31-2話] 姉のともだち",
+      "link": "https://tonarinoyj.jp/episode/12207421983670754175",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-13T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754175-355e80d9668396747f861aac4d3ce9ac?1778497196",
+      "author": "高瀬わか"
+    },
+    {
+      "id": "83c02c3d9d0e45845b9faa803cfe2145f8c425ab",
+      "title": "[第50話] しれっとすげぇこと言ってるギャル。",
+      "link": "https://tonarinoyj.jp/episode/12207421983699649276",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-13T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983699649276-c974746e6ba5daad5126f1d26e44252f?1778496123",
+      "author": "松浦太一（Plott）/おつじ"
+    },
     {
       "id": "2d22ee90a8a0a47b9ec1f8868d5993339c2dc327",
       "title": "[116話]エクソシストを堕とせない",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-12T15:00:00.000Z",
       "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938206-3f14ceb102773cd0c985b9e23e3cb947?1778569337",
       "author": "静脈/依田瑞稀"
-    },
-    {
-      "id": "d60824e67e6488aa19ec0384957c37e61e2a39e8",
-      "title": "[第161話] 俺だけ不遇スキルの異世界召喚叛逆記～最弱スキル【吸収】が全てを飲み込むまで～",
-      "link": "https://tonarinoyj.jp/episode/12207421983699649270",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-12T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983699649270-42230e4b1ba4a6402f716855190614fe?1778232943",
-      "author": "すかいふぁーむ/高幡隆盛"
-    },
-    {
-      "id": "535e614faadb3bdeda3140736c2bd05baa356e5f",
-      "title": "[第76話] 救世主《メシア》～異世界を救った元勇者が魔物のあふれる現実世界を無双する～",
-      "link": "https://tonarinoyj.jp/episode/12207421983711587151",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-12T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983711587151-7c7a98f80d9f0f80a15f2c4b8aa34009?1778489123",
-      "author": "平成オワリ/原田絵理"
-    },
-    {
-      "id": "4045ff25f652b3890bbff5051bc1c0923456f308",
-      "title": "[第21話 後編] 転生アラサー女子の異世改活 政略結婚は嫌なので、雑学知識で楽しい改革ライフを決行しちゃいます！",
-      "link": "https://tonarinoyj.jp/episode/12207421983637878438",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-12T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983637878438-dfd5460f54522ed4fe0121789be219bb?1778235171",
-      "author": "清水ゆりか（HJノベルス）/日野彰/すざく"
     }
   ]
 }
