@@ -1,30 +1,63 @@
 {
-  "generatedAt": "2026-05-14T12:55:38.243Z",
+  "generatedAt": "2026-05-14T15:23:52.572Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-14T12:55:38.242Z",
-        "lastSuccessAt": "2026-05-14T12:55:38.242Z",
+        "lastFetchedAt": "2026-05-14T15:23:52.572Z",
+        "lastSuccessAt": "2026-05-14T15:23:52.572Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "44d82b375bfb1674b6dcc6bd283d8f0646f125ba"
+        "contentHash": "7561da8f0e15a5ca1690d9fbf6ecbf360fc6fcd1"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-14T12:55:38.242Z",
-        "lastSuccessAt": "2026-05-14T12:55:38.242Z",
+        "lastFetchedAt": "2026-05-14T15:23:52.572Z",
+        "lastSuccessAt": "2026-05-14T15:23:52.572Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "fcd2469abb743b3e7ee67b5d3c3b7418d8c84f9a"
+        "contentHash": "e2c1b6fceefeb7ccf81a377800e429de34206d2c"
       }
     }
   },
   "items": [
+    {
+      "id": "0f3730db29e721f1c872f5efa2424bc245546aa5",
+      "title": "[第108話]九龍ジェネリックロマンス",
+      "link": "https://shonenjumpplus.com/episode/9253191253649066149",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-14T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066149-d3d6a632dbe85bc49a3136d78a961624?1778660458",
+      "author": "眉月じゅん"
+    },
+    {
+      "id": "3c579da4506e45bb0314ae0d047be39416ade59c",
+      "title": "[第107話]九龍ジェネリックロマンス",
+      "link": "https://shonenjumpplus.com/episode/9253191253649066140",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-14T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066140-6a07c0e4a918215b1c174a3e55caba97?1778660458",
+      "author": "眉月じゅん"
+    },
+    {
+      "id": "60ad743b3e5090c4835ef7e17d92f13c8cb446de",
+      "title": "[第106話]九龍ジェネリックロマンス",
+      "link": "https://shonenjumpplus.com/episode/9253191253649066127",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-14T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066127-b538d3972bc03d00bb0ab19a0ff48c1a?1778660458",
+      "author": "眉月じゅん"
+    },
     {
       "id": "d69006206cfbefdbc3b70768658b37d71c257db9",
       "title": "[第247話] 君のことが大大大大大好きな100人の彼女",
@@ -44,7 +77,7 @@
       "sourceId": "tonariyj",
       "color": "#ffd700",
       "publishedAt": "2026-05-14T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127768-d47e1f2335700f01c776f41c87489900?1778498447",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127768-d47e1f2335700f01c776f41c87489900?1778763489",
       "author": "昆布わかめ"
     },
     {
@@ -55,41 +88,8 @@
       "sourceId": "tonariyj",
       "color": "#ffd700",
       "publishedAt": "2026-05-14T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127772-17d444f43d4db3992324b3afcb8b0c14?1778498559",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127772-17d444f43d4db3992324b3afcb8b0c14?1778763505",
       "author": "司馬莞爾"
-    },
-    {
-      "id": "c958aaf380db75b485f95582c569845d28912896",
-      "title": "となりの妖精さん",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938352",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-13T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938352-b658f4e4b6bf56f0378542c9fbb76b1a?1778482586",
-      "author": "紙倉イズル"
-    },
-    {
-      "id": "31f05266ccfa2eda9818bef0522e45ec8f27aa82",
-      "title": "[4253回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938465",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-13T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938465-19cf6db7b0e14a818023affa32afbd73?1778642985",
-      "author": "久楽"
-    },
-    {
-      "id": "b58f89d3b10920338bb2a53086a8a26736a9f949",
-      "title": "[第319話]ピューと吹く！ジャガー",
-      "link": "https://shonenjumpplus.com/episode/13932016480028739801",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-13T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028739801-e8dc6e368e0f7c486785e554dc5d0ae7?1711562857",
-      "author": "うすた京介"
     }
   ]
 }
