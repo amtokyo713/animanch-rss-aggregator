@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-14T00:06:39.368Z",
+  "generatedAt": "2026-05-14T04:50:04.499Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-14T00:06:39.367Z",
-        "lastSuccessAt": "2026-05-14T00:06:39.367Z",
+        "lastFetchedAt": "2026-05-14T04:50:04.499Z",
+        "lastSuccessAt": "2026-05-14T04:50:04.499Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -13,18 +13,51 @@
         "contentHash": "44d82b375bfb1674b6dcc6bd283d8f0646f125ba"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-14T00:06:39.367Z",
-        "lastSuccessAt": "2026-05-14T00:06:39.367Z",
+        "lastFetchedAt": "2026-05-14T04:50:04.499Z",
+        "lastSuccessAt": "2026-05-14T04:50:04.499Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "c5d0b68f07537ed1d7b7f11d66c402dd3cfc4825"
+        "contentHash": "fcd2469abb743b3e7ee67b5d3c3b7418d8c84f9a"
       }
     }
   },
   "items": [
+    {
+      "id": "d69006206cfbefdbc3b70768658b37d71c257db9",
+      "title": "[第247話] 君のことが大大大大大好きな100人の彼女",
+      "link": "https://tonarinoyj.jp/episode/12207421983712127782",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-14T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127782-5d02a4bfe0d4e96fc29a607f6c0e1d51?1778498259",
+      "author": "中村力斗/野澤ゆき子"
+    },
+    {
+      "id": "18eca8e093ce2e3c9721ce45e5ae134ec18c2864",
+      "title": "[第13話] 私のこと好きじゃなかったのかよ!?",
+      "link": "https://tonarinoyj.jp/episode/12207421983712127768",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-14T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127768-d47e1f2335700f01c776f41c87489900?1778498447",
+      "author": "昆布わかめ"
+    },
+    {
+      "id": "796b3caf19da9fd179b52a77ed464158633cdd1f",
+      "title": "[第11話] エニグマティカ",
+      "link": "https://tonarinoyj.jp/episode/12207421983712127772",
+      "source": "となりのヤングジャンプ",
+      "sourceId": "tonariyj",
+      "color": "#ffd700",
+      "publishedAt": "2026-05-14T03:00:00.000Z",
+      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983712127772-17d444f43d4db3992324b3afcb8b0c14?1778498559",
+      "author": "司馬莞爾"
+    },
     {
       "id": "c958aaf380db75b485f95582c569845d28912896",
       "title": "となりの妖精さん",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-13T15:00:00.000Z",
       "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/13932016480028739801-e8dc6e368e0f7c486785e554dc5d0ae7?1711562857",
       "author": "うすた京介"
-    },
-    {
-      "id": "f8bc5c923b9bf2323b837bc54a2c21709d98094c",
-      "title": "[ポン太たちの日々㉞] ポン太がヒトになりまして。",
-      "link": "https://tonarinoyj.jp/episode/12207421983714390188",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-13T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983714390188-ad33ba40b2fdad0fa32893ac6ab2e5b5?1778565200",
-      "author": "濱田賢治"
-    },
-    {
-      "id": "54bc1a47288b055155831bf494d11530ff51a325",
-      "title": "[第31-2話] 姉のともだち",
-      "link": "https://tonarinoyj.jp/episode/12207421983670754175",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-13T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983670754175-355e80d9668396747f861aac4d3ce9ac?1778497196",
-      "author": "高瀬わか"
-    },
-    {
-      "id": "83c02c3d9d0e45845b9faa803cfe2145f8c425ab",
-      "title": "[第50話] しれっとすげぇこと言ってるギャル。",
-      "link": "https://tonarinoyj.jp/episode/12207421983699649276",
-      "source": "となりのヤングジャンプ",
-      "sourceId": "tonariyj",
-      "color": "#ffd700",
-      "publishedAt": "2026-05-13T03:00:00.000Z",
-      "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983699649276-c974746e6ba5daad5126f1d26e44252f?1778496123",
-      "author": "松浦太一（Plott）/おつじ"
     }
   ]
 }
