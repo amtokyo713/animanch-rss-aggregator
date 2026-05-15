@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-15T13:01:11.932Z",
+  "generatedAt": "2026-05-15T15:22:00.883Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-15T13:01:11.931Z",
-        "lastSuccessAt": "2026-05-15T13:01:11.931Z",
+        "lastFetchedAt": "2026-05-15T15:22:00.882Z",
+        "lastSuccessAt": "2026-05-15T15:22:00.882Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "1f04b44eda9cbb6f56b5e09c839eb93bd8e277ca"
+        "contentHash": "6426c2f438566527e48b9f0bd0cdb9b35bd3cb45"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-15T13:01:11.931Z",
-        "lastSuccessAt": "2026-05-15T13:01:11.931Z",
+        "lastFetchedAt": "2026-05-15T15:22:00.882Z",
+        "lastSuccessAt": "2026-05-15T15:22:00.882Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -25,6 +25,39 @@
     }
   },
   "items": [
+    {
+      "id": "0be0bc16256c4bf49c8d8d1cb9cba171aaa51130",
+      "title": "[4255回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938705",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-15T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938705-3137a8df27fce8629f522b73e35ddf09?1778740049",
+      "author": "久楽"
+    },
+    {
+      "id": "414afa951109c8ca40858787f0cabce5d06c4793",
+      "title": "[第31話]都市伝説先輩",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938635",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-15T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938635-54a90b5e542cb07ac69305b220851f52?1778740049",
+      "author": "平岡一輝"
+    },
+    {
+      "id": "a9c47e0a142cb3ecccc5439a2a167af2ce2b898b",
+      "title": "[第51話]大人大戦",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938612",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-15T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938612-9e6cf228a4fb0cfb1c3206cb27eaa889?1778740049",
+      "author": "かっぴー/都築真佐秋"
+    },
     {
       "id": "16cc524ec67328b3e498d9d5baa56d39131be6a2",
       "title": "[第74話] 生意気なギャル姉を解らせる話",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-05-15T03:00:00.000Z",
       "thumbnail": "https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/12207421983714475171-30fd631431203c12539f26fb482a420b?1778648133",
       "author": "荒井小豆/おさとう"
-    },
-    {
-      "id": "0f3730db29e721f1c872f5efa2424bc245546aa5",
-      "title": "[第108話]九龍ジェネリックロマンス",
-      "link": "https://shonenjumpplus.com/episode/9253191253649066149",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-14T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066149-d3d6a632dbe85bc49a3136d78a961624?1778660458",
-      "author": "眉月じゅん"
-    },
-    {
-      "id": "3c579da4506e45bb0314ae0d047be39416ade59c",
-      "title": "[第107話]九龍ジェネリックロマンス",
-      "link": "https://shonenjumpplus.com/episode/9253191253649066140",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-14T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066140-6a07c0e4a918215b1c174a3e55caba97?1778660458",
-      "author": "眉月じゅん"
-    },
-    {
-      "id": "60ad743b3e5090c4835ef7e17d92f13c8cb446de",
-      "title": "[第106話]九龍ジェネリックロマンス",
-      "link": "https://shonenjumpplus.com/episode/9253191253649066127",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-14T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191253649066127-b538d3972bc03d00bb0ab19a0ff48c1a?1778660458",
-      "author": "眉月じゅん"
     }
   ]
 }
