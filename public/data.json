@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-05-16T13:43:32.525Z",
+  "generatedAt": "2026-05-16T15:01:15.222Z",
   "meta": {
     "feeds": {
       "jumpplus": {
-        "lastFetchedAt": "2026-05-16T13:43:32.524Z",
-        "lastSuccessAt": "2026-05-16T13:43:32.524Z",
+        "lastFetchedAt": "2026-05-16T15:01:15.222Z",
+        "lastSuccessAt": "2026-05-16T15:01:15.222Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
         "etag": null,
         "lastModified": null,
-        "contentHash": "6426c2f438566527e48b9f0bd0cdb9b35bd3cb45"
+        "contentHash": "e8ae69c3876e16b4b586e4162c3a810c946c2e0a"
       },
       "tonariyj": {
-        "lastFetchedAt": "2026-05-16T13:43:32.524Z",
-        "lastSuccessAt": "2026-05-16T13:43:32.524Z",
+        "lastFetchedAt": "2026-05-16T15:01:15.222Z",
+        "lastSuccessAt": "2026-05-16T15:01:15.222Z",
         "consecutiveFailures": 0,
         "lastError": null,
         "itemCount": 3,
@@ -26,37 +26,37 @@
   },
   "items": [
     {
-      "id": "0be0bc16256c4bf49c8d8d1cb9cba171aaa51130",
-      "title": "[4255回]猫田びより",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938705",
+      "id": "f835b6be7f174e13aa7cac9830b249e9aa7bae94",
+      "title": "[第163話]僕の武器は攻撃力１の針しかない",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938797",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938705-3137a8df27fce8629f522b73e35ddf09?1778740049",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938797-3296cba4be2d00cd29002e77dbb87da4?1778740049",
+      "author": "上之心々/ナベツヨ"
+    },
+    {
+      "id": "9addab28ca1e22a7d74b30b0927e59e9930a0a91",
+      "title": "[4256回]猫田びより",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938843",
+      "source": "ジャンプ+",
+      "sourceId": "jumpplus",
+      "color": "#e60012",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938843-9eff2f40a01be53afbb3f9e1d30a47b8?1778740049",
       "author": "久楽"
     },
     {
-      "id": "414afa951109c8ca40858787f0cabce5d06c4793",
-      "title": "[第31話]都市伝説先輩",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938635",
+      "id": "de8e39801168d2b877354bfbc8d4174ca5703771",
+      "title": "[第１０９話]ふつうの軽音部",
+      "link": "https://shonenjumpplus.com/episode/9253189534697938759",
       "source": "ジャンプ+",
       "sourceId": "jumpplus",
       "color": "#e60012",
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938635-54a90b5e542cb07ac69305b220851f52?1778740049",
-      "author": "平岡一輝"
-    },
-    {
-      "id": "a9c47e0a142cb3ecccc5439a2a167af2ce2b898b",
-      "title": "[第51話]大人大戦",
-      "link": "https://shonenjumpplus.com/episode/9253189534697938612",
-      "source": "ジャンプ+",
-      "sourceId": "jumpplus",
-      "color": "#e60012",
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938612-9e6cf228a4fb0cfb1c3206cb27eaa889?1778740049",
-      "author": "かっぴー/都築真佐秋"
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "thumbnail": "https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253189534697938759-8e601e1cb2f7bd3144ddeb29baa4f1c2?1778740049",
+      "author": "クワハリ/出内テツオ"
     },
     {
       "id": "16cc524ec67328b3e498d9d5baa56d39131be6a2",
